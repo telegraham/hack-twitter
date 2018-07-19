@@ -1,0 +1,8 @@
+What is hacking?
+What is Twitter?
+What is HTML?
+What is CSS?
+What is JavaScript?
+What is an HTTP request?
+What is an API?
+What's a cool thing we do with a request?
